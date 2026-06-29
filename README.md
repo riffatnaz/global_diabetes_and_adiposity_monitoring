@@ -1,4 +1,3 @@
-# global_diabetes_and_adiposity_monitoring
 # Global Diabetes & Adiposity Monitoring Dashboard
 An interactive Power BI dashboard for global non-communicable disease (NCD) surveillance, tracking diabetes prevalence, treatment coverage, and body-mass-index (BMI) distribution across 200 countries and territories from 1980–2024, by sex.
 Built on two NCD Risk Factor Collaboration (NCD-RisC) datasets, the dashboard surfaces cross-country and cross-time relationships between adiposity and diabetes burden, gender gaps in disease and treatment access, and regional disparities. It is designed as a reproducible analytical visual for population-health monitoring.
